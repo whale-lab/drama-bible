@@ -18,7 +18,10 @@
     "content_security_policy": "script-src 'self' https://github.com/whale-lab/drama-bible ",
     "sidebar_action" : {
       "default_page": "static/index.html",
-      "default_title" : "SidebarApp",
+      "default_icon" : {
+        "16": "images/icon-16.png"
+      },
+      "default_title" : "드라마바이블",
       "use_navigation_bar" : false
     }
   }
