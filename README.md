@@ -2,6 +2,8 @@
 
 # 드라마 바이블 웨일 확장앱
 
+> ⚠️ 로그인해야만 성경을 읽을 수 있어서 확장앱을 비공개하였습니다.
+
 ![whale store](https://img.shields.io/badge/building-passing-blue?style=flat-square)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/whale-lab/drama-bible/pulls)
 ![whale store](https://img.shields.io/badge/whale_store-1.0.1-blue?style=flat-square)

@@ -1,17 +1,11 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "드라마바이블",
-    "version" : "1.0.5",
+    "version" : "1.0.6",
   
     "description" : "드라마바이블을 웨일 확장앱으로! ",
     "default_locale" : "ko",
   
-    "web_accessible_resources": [
-      "static/css/*.css",
-      "images/*.png"
-    ],
-  
-    "content_security_policy": "script-src 'self' https://github.com/whale-lab/drama-bible ",
     "sidebar_action" : {
       "default_page": "static/index.html",
       "default_icon" : {
